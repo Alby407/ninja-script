@@ -1,0 +1,10 @@
+{
+    "name": "ninja-script",
+    "author": "alby407",
+    "description": "Ninja script.",
+    "version": "110.01",
+    "servers": [
+        "https://raw.githubusercontent.com/alby407/ninja-script/main/"
+    ],
+    "disableAutoUpdate": false
+}
