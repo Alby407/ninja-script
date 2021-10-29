@@ -527,7 +527,7 @@ module.exports = function ninja(dispatch){
         return true;
     });
 
-    dispatch.hook("S_PLAYER_STAT_UPDATE", 13, (event) => {
+    dispatch.hook("S_PLAYER_STAT_UPDATE", 14, (event) => {
         if(!enabled) return;
         aspd = (event.attackSpeed + event.attackSpeedBonus) / 100;
     });
